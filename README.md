@@ -10,5 +10,5 @@ In this script one can calculate the mean temperature from an input excel sheet.
 
 ## Run example:
 ```
-python 
+python analyse_spreadsheet.py
 ```
