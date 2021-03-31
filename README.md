@@ -1,4 +1,4 @@
-# Documentation example script
+# Documentation
 
 In this script one can calculate the mean temperature from an input excel sheet.
 
